@@ -279,6 +279,9 @@ INSERT INTO public.galaxy VALUES (6, 'Magellanic', 'irregular', 9500, false);
 -- Data for Name: info; Type: TABLE DATA; Schema: public; Owner: freecodecamp
 --
 
+INSERT INTO public.info VALUES (1, 'Earth', 'Earth is the third planet from the sun and the only place in the known universe confirmed to host life.');
+INSERT INTO public.info VALUES (3, 'Jupiter', 'Jupiter is the largest planet in our solar system,');
+INSERT INTO public.info VALUES (2, 'Saturn', 'Nicknamed the “Jewel of the Solar System,” Saturn’s beauty reigns over the Solar System.');
 
 
 --
